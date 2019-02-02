@@ -1,2 +1,3 @@
 # SystemModeling
-Several examples of different complex systems being modeled
+
+Several examples of modeling and simulating different complex systems
